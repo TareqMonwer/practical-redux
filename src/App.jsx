@@ -1,6 +1,6 @@
 import { Container, Header } from "semantic-ui-react";
 import './App.css';
-import TabBarContainer from "./features/tabs/TabBarContainer";
+import TabBarContainer from "./features/tabs/TabBar";
 import tabs from "./assets/tabsData";
 
 function App() {
