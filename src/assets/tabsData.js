@@ -3,7 +3,7 @@ import {
   Pilots,
   Mechs,
   UnitOrganization,
-} from "../features/tabs/panels";
+} from "features/tabs/panels";
 
 const tabs = [
   { name: "unitInfo", label: "Unit Info", component: UnitInfo },

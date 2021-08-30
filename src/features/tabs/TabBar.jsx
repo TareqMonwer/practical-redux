@@ -1,5 +1,5 @@
 import { Menu } from 'semantic-ui-react';
-import ToggleDisplay from '../../common/components/ToggleDisplay';
+import ToggleDisplay from 'common/components/ToggleDisplay';
 import Tab from './Tab';
 
 const TabBar = ({ tabs, currentTab, onTabClick, ...otherProps }) => {
