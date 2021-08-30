@@ -5,7 +5,7 @@ import tabs from "./assets/tabsData";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <div className="App-header">
         <Header inverted as="h1">
           Project Mini-Mek
